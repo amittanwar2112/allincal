@@ -1,0 +1,173 @@
+.allfont{
+    font-family: Silka;
+    font-style: normal;
+   
+   
+}
+
+.cardbackgraound{
+    background: linear-gradient(123.75deg, #F5821F 1.87%, #FF5C00 120.46%);
+    color: #FFFFFF;
+    width: 32.5%;
+    height: 38%;
+    position: absolute;
+    top: 0px;
+    left:35%
+    
+
+}
+.cardbackgraound1{
+    background: #FFFFFF ;
+    color: #FFFFFF;
+    width: 32.5%;
+    height: 61%;
+    position: absolute;
+    top: 235px;
+    left:35%
+    
+
+}
+
+.title{
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    
+    
+}
+
+.title2{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    
+   
+}
+
+.title3{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    
+}
+
+.backgroundcard{
+    position: absolute;
+    top:206px;
+    left:36%;
+    width: 30.5%;
+    height: 61%;
+    background: #FFFFFF;;
+ 
+  }
+.logo{
+    position: relative;
+    background:linear-gradient(180deg, #FF7600 0%, #FF5C00 100%);;
+    vertical-align: middle;
+    width: 67px;
+    height: 67px;
+    border-radius: 50%;
+    left: 38px;
+    top: -40px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+}
+
+.secondcardlow{
+    position: absolute;
+    margin: 5px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #2D2D2D;
+    left: 28px;
+    top: 50px;
+}
+
+.secondcard1{
+    position: absolute;
+    left: 7%;
+    top: 80px;
+    width: 87%;
+    height: 10%;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 5px;
+    color: #2D2D2D;
+}
+
+.secondcard2{
+    position: absolute;
+    left: 7%;
+    top: 137px;
+    width: 87%;
+    height: 10%;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 5px;
+    color: #2D2D2D;
+}
+
+.secondcard3{
+    position: absolute;
+    left: 7%;
+    top: 194px;
+    width: 87%;
+    height: 10%;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 5px;
+    color: #2D2D2D;
+}
+
+.secondcard4{
+    position: absolute;
+    left: 7%;
+    top: 252px;
+    width: 87%;
+    height: 10%;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 5px;
+    color: #2D2D2D;
+}
+
+.secondcard5{
+    position: absolute;
+    left: 18%;
+    top: 315px;
+    width: 67%;
+    height: 10%;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    color: #2D2D2D;
+    text-align: center;
+    line-height: 1px;
+    border-radius: 30px;
+}
+
+
+.logo-img {
+    position: absolute;
+left: 23.74%;
+right: 67.61%;
+top: 25.09%;
+bottom: 70.14%;
+}
+
+.hand {
+    padding-left: 20px;
+}
+
+.chaticon {
+    padding-right: 5px;
+}
+
+.question {
+    padding-left: 15px;
+}
+
+.bullet {
+    padding-right: 5px;
+}
+
